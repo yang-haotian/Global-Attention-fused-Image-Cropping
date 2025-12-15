@@ -2,7 +2,7 @@
 
 This is the official repository for the following paper:
 
-> **Human-centric Image Cropping with Partition-aware and Content-preserving Features** [[arxiv]](https://arxiv.org/pdf/2207.10269.pdf)
+> **Human-cenasdftition-abcd** [[arxiv]](https://arxiv.org/pdf/2207.10269.pdf)
 >
 > Bo Zhang, Li Niu, Xing Zhao, Liqing Zhang<br>
 > Accepted by **ECCV2022**.
